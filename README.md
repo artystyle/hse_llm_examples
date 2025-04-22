@@ -20,7 +20,7 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/artystyle/hse_llm_examples
+git clone https://github.com/artystyle/hse_llm_examples.git
 cd hse_llm_examples
 ```
 
