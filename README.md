@@ -50,10 +50,6 @@ WEATHERMAP_API_KEY=your_weather_api_key
 
 ## 🚀 Использование
 
-Запуск системы:
-```python
-python main.py
-```
 
 Примеры запросов:
 ```python
